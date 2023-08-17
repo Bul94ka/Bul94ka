@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://thumbs.gfycat.com/ShabbyMediumDogwoodtwigborer-max-1mb.gif"  />
+<img align="right" height="220" src="https://thumbs.gfycat.com/ShabbyMediumDogwoodtwigborer-max-1mb.gif"  />
 
 ###
 
