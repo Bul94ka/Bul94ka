@@ -3,12 +3,15 @@
 ###
 
 <div align="center">
+
   <img src="https://streak-stats.demolab.com?user=Bul94ka&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=10" height="165" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<img align="right" height="250" src="https://thumbs.gfycat.com/ShabbyMediumDogwoodtwigborer-max-1mb.gif"  />
 
 ###
 
@@ -33,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bul94ka/Bul94ka/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bul94ka/Bul94ka/output/snake.svg" alt="Snake animation" />
 
 ###
